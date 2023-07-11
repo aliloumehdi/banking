@@ -1,0 +1,11 @@
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\Account.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\Operation.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\repositories\AccountRepository.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\enums\OperationType.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\BankingApplication.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\SavingAccount.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\repositories\CustomerRepository.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\CurrentAccount.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\Customer.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\models\enums\AccountStatus.java
+E:\DEV\STS_WS\banking\src\main\java\ma\enset\digital\banking\repositories\OperationRepository.java
